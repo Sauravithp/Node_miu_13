@@ -1,0 +1,14 @@
+{
+  "name": "lab13",
+  "version": "1.0.0",
+  "description": "rest application",
+  "main": "app.js",
+  "scripts": {
+    "start": "PORT=9999 NODE_ENV=developemnt nodemon app.js"
+  },
+  "author": "sauravi thapoa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
